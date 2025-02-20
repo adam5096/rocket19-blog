@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "🚀 My Rocket 19 🚀"
+  name: "My Rocket 19 🚀"
   text: "Team building"
   tagline: My great project tagline
   actions:
@@ -15,12 +15,12 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 📌2/25(二) 14:00
+    details: Git, Github
+  - title: 📌2/26(三) 14:00
+    details: 眼鏡電商切版，學長姐經驗分享
+  - title: 還沒想到🤷‍♀️
+    details: 歡迎置入👀
 ---
 
 <!-- 團隊頁文件 => https://vitepress.dev/zh/reference/default-theme-team-page -->
@@ -64,9 +64,6 @@ const members = [
     title: 'Web frontend',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
   {
@@ -75,9 +72,6 @@ const members = [
     title: 'Web frontend',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
   {
@@ -86,9 +80,6 @@ const members = [
     title: 'Web frontend',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
   {
@@ -97,9 +88,6 @@ const members = [
     title: 'Web frontend',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
   {
@@ -108,9 +96,6 @@ const members = [
     title: 'Web backend',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
   {
@@ -119,9 +104,6 @@ const members = [
     title: 'Web backend',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
   {
@@ -130,9 +112,6 @@ const members = [
     title: 'Web backend',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
 ]
