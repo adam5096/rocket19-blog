@@ -11,7 +11,7 @@ export default defineConfig({
       { text: 'UIUX', link: '/uiux/index.md' },
       { text: '前端', link: '/frontend/index.md' },
       { text: '後端', link: '/backend/index.md' },
-      { text: '各種官網', link: '/documents/index.md' },
+      { text: 'Git', link: '/git/index.md' },
       { text: '學長姐', link: '/senior' },
       { text: '專案靈感', link: '/idea' },
       { text: '友站連結', link: '/links' },
@@ -27,16 +27,31 @@ export default defineConfig({
     //     ]
     //   }
     // ],
+    // 當切換到 /*/ 中的目錄時，就會展示側邊索引
     sidebar: {
       '/frontend/': [
         {
-          text: 'Admin Template',
+          text: 'Fronted',
           collapsed: true,
           items: [
-            { text: 'All Topics', link: '/frontend/' },
+            { text: 'Fronted', link: '/frontend/' },
+            { text: 'JS framework', link: '/frontend/js-framework' },
+            { text: 'CSS framework', link: '/frontend/css-framework' },
+            { text: 'UI framework', link: '/frontend/ui-framework' },
+            { text: 'Free API', link: '/frontend/api' },
           ]
         }
-      ]
+      ],
+      '/backend/': [
+        {
+          text: 'Backend',
+          collapsed: true,
+          items: [
+            { text: 'Backend', link: '/backend/' },
+            { text: '資料庫', link: '/backend/database' },
+          ]
+        }
+      ],
     },
 
     socialLinks: [

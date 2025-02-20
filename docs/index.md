@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
+  name: "🚀 My Rocket 19 🚀"
+  text: "Team building"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 開發人員技能樹指南
+      link: /developer-roadmap
     - theme: alt
       text: API Examples
       link: /api-examples
