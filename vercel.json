@@ -9,5 +9,8 @@
                 }
             ]
         }
-    ]
+    ],
+    "build": {
+        "buildCommand": "chmod +x node_modules/.bin/vitepress && npm run docs:build"
+    }
 }
