@@ -8,11 +8,12 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
+      text: 值日生班表
+      link: /onDuty
+    - theme: alt
       text: 開發人員技能樹指南
       link: /developer-roadmap
     - theme: alt
-      text: API Examples
-      link: /api-examples
 
 features:
   - title: 📌2/25(二) 14:00
@@ -53,9 +54,6 @@ const members = [
     title: 'UIUX',
     links: [
       { icon: 'github', link: 'https://github.com/adam5096' },
-      { icon: 'nvidia', link: 'https://twitter.com/youyuxi' },
-      { icon: 'tesla', link: 'https://twitter.com/youyuxi' },
-      { icon: 'intel', link: 'https://twitter.com/youyuxi' },
     ]
   },
   {

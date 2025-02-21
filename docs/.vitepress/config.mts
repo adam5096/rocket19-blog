@@ -12,7 +12,7 @@ export default defineConfig({
       { text: '前端', link: '/frontend/index.md' },
       { text: '後端', link: '/backend/index.md' },
       { text: 'Git', link: '/git/index.md' },
-      { text: '學長姐', link: '/senior' },
+      { text: '學長姐的話', link: '/senior' },
       { text: '專案靈感', link: '/idea' },
       { text: '友站連結', link: '/links' },
       { text: '會議記錄', link: '/meeting/index.md' },
