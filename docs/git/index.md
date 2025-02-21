@@ -8,6 +8,8 @@
 🔗 [GitHub](https://github.com/)
 
 ## 邊玩邊學 Git
+🔗 [阿劍學長的香香筆記](https://seonkuraito.notion.site/Git-Docs-1bea4536d9cf4567aaee117b093ea483#410ea5506fab47ef924bd74cb1595118)
+
 🔗 [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_TW)
 
 🔗 [Learn Git Branching 攻略](https://youtu.be/IyStwRt2fiA?si=SRyiuCXD1OTi8LIu)
