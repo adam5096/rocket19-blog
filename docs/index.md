@@ -26,6 +26,8 @@ features:
 
 <!-- 團隊頁文件 => https://vitepress.dev/zh/reference/default-theme-team-page -->
 <script setup>
+import { inject } from "@vercel/analytics"
+
 import {
   VPTeamPage,
   VPTeamPageTitle,
