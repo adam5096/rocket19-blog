@@ -19,7 +19,3 @@
 🔗 [適合初學者的簡單 Git 教學](https://nulab.com/zh-tw/learn/software-development/git-tutorial/)
 
 🔗 [人人都能學會的git教學，版本控制、分支管理、開源協作一次講清楚 | William说](https://youtu.be/KGLUbg_LGdQ)
-
-
-## Git Message 參考指南
-🔗[Message 隨便打，就會看不懂](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit?tab=t.0)
